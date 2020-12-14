@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Riverside Shopping Center',
   subHeading:
-    "High traffic commercial real estate. Franklinton, Louisiana.",
+    "High traffic commercial retail at the heart of Franklinton, Louisiana.",
   socialLinks: [
     {
       icon: 'fa-github',
